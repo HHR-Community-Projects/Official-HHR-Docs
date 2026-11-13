@@ -1,3 +1,6 @@
+[!NOTE]
+> These rules are not exhaustive. Moderators reserve the right to take action on behavior that negatively impacts the game or community, even if it is not explicitly listed there. Moderator decisions are final, and rules may be updated at any time. 
+
 ### 1. No Botting
 The use of any third-party applications, tools, scripts, or software that automate gameplay or provide an unfair gameplay advantage is strictly prohibited. This includes programs that record and repeat keystrokes or actions.
 
